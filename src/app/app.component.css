@@ -1,0 +1,42 @@
+nav#na-1{
+    background-color:#F9F5EB;
+}
+nav#na-2{
+    background-color:#1C3879;
+}
+div#informacion{
+    color:white;
+    display: flex;
+    justify-content: left;
+}
+div#Saludo{
+    color:white;
+    display: flex;
+    justify-content: right;
+}
+img{
+    height: 50px;
+}
+div#img-1{
+    
+    display: flex;
+    justify-content: left;
+    width:100px;
+}
+div#img-2{
+    width: 50px;
+    display: flex;
+    justify-content: right;
+}
+h1{
+    text-align: center;
+}
+button#btn1{
+    background-color: blue;
+}
+button#btn2{
+    background-color: red;
+}
+.active{
+    background-color: #c2c2c2;
+}
